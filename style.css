@@ -1,0 +1,56 @@
+.carte-moto {
+  height: auto !important;
+  width: 10% !important;
+  margin: 10px !important;
+  border: rgb(104, 104, 104) 3px solid !important;
+  background-color: #e2e2cf;
+  font-weight: 50px;
+  border-radius: 15px !important;
+}
+
+.container-motos {
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.div-moto-image {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+}
+
+.moto-image {
+  height: 175px !important;
+  object-fit: cover !important;
+  background-size: auto !important;
+  background-repeat: no-repeat !important;
+  margin-bottom: 50px !important;
+  border-radius: 10px !important;
+  padding: 10px !important;
+}
+
+.trait-pour-antoine {
+  display: flex !important;
+  flex-direction: row !important;
+  background-color: black;
+  height: 2px !important;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-bottom: 50px !important;
+}
+
+.carte-moto div {
+  font-weight: bold !important;
+}
+
+.moto-specs div {
+  padding-left: 10% !important;
+  padding-bottom: 50px !important;
+  margin: 0 5px !important;
+}
+
+.exemple-deh {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around !important;
+}

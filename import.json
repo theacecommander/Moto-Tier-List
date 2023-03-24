@@ -1,0 +1,83 @@
+[
+  {
+    "brand": "Honda",
+    "model": "CBR600RR",
+    "price": 11500,
+    "color": "Red",
+    "power": "118 hp",
+    "mods": ["Akrapovic exhaust", "Ohlins suspension"],
+    "image": "https://example.com/honda-cbr600rr.jpg"
+  },
+  {
+    "brand": "Kawasaki",
+    "model": "Versys",
+    "price": 12500,
+    "color": "Green",
+    "power": "118 hp",
+    "mods": ["Givi top case", "Akrapovic exhaust"],
+    "image": "https://example.com/kawasaki-versys.jpg"
+  },
+  {
+    "brand": "Suzuki",
+    "model": "GSX-R750",
+    "price": 13500,
+    "color": "Blue",
+    "power": "148 hp",
+    "mods": ["Yoshimura exhaust", "Brembo brakes"],
+    "image": "https://example.com/suzuki-gsxr750.jpg"
+  },
+  {
+    "brand": "Ducati",
+    "model": "Panigale V4",
+    "price": 28000,
+    "color": "Red",
+    "power": "214 hp",
+    "mods": ["Termignoni exhaust", "Ohlins suspension"],
+    "image": "https://example.com/ducati-panigale-v4.jpg"
+  },
+  {
+    "brand": "Kawasaki",
+    "model": "Ninja ZX-6R",
+    "price": 12000,
+    "color": "Black",
+    "power": "130 hp",
+    "mods": ["Akrapovic exhaust", "Brembo brakes"],
+    "image": "https://example.com/kawasaki-ninja-zx6r.jpg"
+  },
+  {
+    "brand": "Yamaha",
+    "model": "R6",
+    "price": 10500,
+    "color": "Yellow",
+    "power": "117 hp",
+    "mods": ["Akrapovic exhaust", "Ohlins suspension"],
+    "image": "https://example.com/yamaha-r6.jpg"
+  },
+  {
+    "brand": "Triumph",
+    "model": "Street Triple RS",
+    "price": 11500,
+    "color": "Silver",
+    "power": "121 hp",
+    "mods": ["Arrow exhaust", "Ohlins suspension"],
+    "image": "https://example.com/triumph-street-triple-rs.jpg"
+  },
+  {
+    "brand": "KTM",
+    "model": "Super Duke R",
+    "price": 18000,
+    "color": "Orange",
+    "power": "177 hp",
+    "mods": ["Akrapovic exhaust", "KTM PowerParts"],
+    "image": "https://example.com/ktm-super-duke-r.jpg"
+  },
+  {
+    "brand": "BMW",
+    "model": "S1000RR",
+    "price": 22000,
+    "color": "White",
+    "power": "205 hp",
+    "mods": ["Akrapovic exhaust", "Ohlins suspension"],
+    "image": "https://example.com/bmw"
+  }
+]
