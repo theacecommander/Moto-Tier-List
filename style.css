@@ -54,3 +54,27 @@
   flex-direction: row;
   justify-content: space-around !important;
 }
+
+
+#Section modified by Antoine
+
+.moto-image-tl {
+  height: 175px !important;
+  object-fit: cover !important;
+  background-size: auto !important;
+  background-repeat: no-repeat !important;
+  margin-bottom: 50px !important;
+  border-radius: 10px !important;
+  padding: 10px !important;  
+}
+
+.story {
+  font-style: italic;
+  font-family:'Times New Roman', Times, serif
+
+}
+
+.author-antoine {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+  font-size: small;
+}
